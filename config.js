@@ -1,14 +1,14 @@
 let fs = require('fs')                    //CREATOR = YahyaGanzz , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6281511480762'],
-  ['66281511480762'],
-  ['6281511480762', 'Owner AzzBot', true]  
+  ['6281329869802'],
+  ['6281329869802'],
+  ['6281329869802', 'Owner SannBot', true]  
   
 ] 
-global.ownername = [['YahyaGanzz']]
-global.namabot = [['AzzBot-MD']]
-global.ownerinsta = [['@wibu_indo_888816']]
+global.ownername = [['IrsannGanzz😱']]
+global.namabot = [['SanBot-MD']]
+global.ownerinsta = [['gaada Mek']]
 global.mods = [] 
 global.prems = [] 
 
@@ -32,7 +32,7 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.neoxr.eu.org/': '0fWgL9ID',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'ZZBk7EBb',
+  'https://melcanz.com': 'irsantod',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://x-restapi.herokuapp.com': 'BETA',
   'https://api-alphabot.herokuapp.com': 'N7axnIq3'
@@ -43,8 +43,8 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'AzzBot-MD'
-  var sticker_author = 'By YahyaGanzz'
+  var sticker_name = ''
+  var sticker_author = 'KONTOL'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
