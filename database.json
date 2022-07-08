@@ -1,20 +1,20 @@
 {
   "users": {
-    "6289662890502@s.whatsapp.net": {
-      "exp": 20,
-      "limit": 1000,
+    "27692574469@s.whatsapp.net": {
+      "exp": 2093939399393939399393,
+      "limit": 109988777777776666677876600,
       "joinlimit": 1,
       "spammer": 0,
       "money": 10000,
       "bank": 10000,
-      "health": 100,
-      "tiketcoin": 0,
+      "health": 1067770,
+      "tiketcoin": 9976888,
       "healtmonster": 100,
       "armormonster": 0,
       "lastclaim": 0,
-      "registered": false,
-      "name": "tes bot",
-      "age": -1,
+      "registered": true,
+      "name": "irsangz",
+      "age": 100,
       "regTime": -1,
       "afk": -1,
       "afkReason": "",
@@ -226,12 +226,12 @@
       "lumba": 0,
       "catexp": 0
     },
-    "6285828357727@s.whatsapp.net": {
+    "6282195159545@s.whatsapp.net": {
       "exp": 12275,
-      "limit": 1004,
+      "limit": 109393939399393939304,
       "joinlimit": 1,
       "spammer": 0,
-      "money": -970000,
+      "money": 9030939393970000,
       "bank": 10000,
       "health": 100,
       "tiketcoin": 1,
