@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   let pepe = 'https://telegra.ph/file/2e2eb7d093fec08fd00d4.jpg'
   let baper = await fetch(pepe).then(a => a.buffer())
 
-  let arietube = '27692574469@s.whatsapp.net'
+  let arietube = '8562052906199@s.whatsapp.net'
   let a = await conn.profilePictureUrl(conn.user.jid, 'image').catch((_) => "https://telegra.ph/file/057b8dff2f6ba7d4553ae.jpg")
   let b = await conn.profilePictureUrl(owner[0]+'@s.whatsapp.net', 'image').catch((_) => "https://telegra.ph/file/057b8dff2f6ba7d4553ae.jpg")
   let c = pickRandom([a, b])
@@ -24,7 +24,7 @@ let handler = async (m, { conn }) => {
   products:[{productId:'5137464589655050'}]}],
   headerImage: { productId: '5137464589655050',
   jpegThumbnail: baper },
-  businessOwnerJid: `27692574469@s.whatsapp.net`
+  businessOwnerJid: `8562052906199@s.whatsapp.net`
   },
   footerText: '',
   }},{})
