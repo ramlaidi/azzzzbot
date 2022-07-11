@@ -20,7 +20,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
         stiker = await sticker(false, out, global.packname, global.author)
       } catch (e) {
         console.error(e)
-        if (!stiker) stiker = await sticker(img, false, global.packname, global.author)
+        if (!stiker) stiker = await sticker(img, true, global.packname, global.author)
       }
     } else if (args[0]) {
       if (isUrl(args[0])) stiker = await sticker(false, args[0], global.packname, global.author)
